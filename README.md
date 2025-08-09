@@ -1,41 +1,58 @@
+
 # Visual Basic Calculator
+
 A simple yet powerful Calculator Application built with Visual Basic to handle basic and advanced mathematical operations. This project demonstrates the capabilities of Visual Basic in creating functional, user-friendly desktop applications.
 
-## Overview
-This calculator is designed to perform essential arithmetic operations and more, featuring a straightforward graphical interface. The application supports functions like addition, subtraction, multiplication, division, square roots, and exponentiation, making it suitable for various calculation needs.
+## Features
 
-## Key Features
-Basic Operations: Add, subtract, multiply, and divide numbers.
-Advanced Functions: Includes square roots, exponents, and clear input options.
-Interactive Interface: User-friendly layout designed for easy interaction.
-Error Handling: Detects and manages division by zero or invalid operations.
-Supports Decimal Values: Perform accurate calculations with both integers and decimals.
-Getting Started
-Requirements
-Visual Basic: This project was developed in Visual Basic. A compatible environment such as Microsoft Visual Studio is required to run and modify the project.
-Installation Steps
-Download the Project:
-Clone or download the project files from the repository to your local machine.
-Open in Visual Studio:
-Open the .sln (Solution) file using Visual Studio.
-Build and Run:
-After opening the project, click "Start" in Visual Studio to launch the application.
-The calculator window will open, and you can begin making calculations.
-# How to Use the Calculator
-## Entering Numbers:
+- Basic arithmetic operations (addition, subtraction, multiplication, division)
+- Advanced functions: square root, exponentiation
+- Supports decimal values
+- Clear input/reset function
+- Error handling for invalid operations like division by zero
+- Interactive, user-friendly interface
 
-Use the number buttons (0-9) to enter the desired values.
-You can also use the decimal point button for floating-point numbers.
-## Performing Calculations:
 
-Select an operation (addition, subtraction, multiplication, or division) by clicking the respective buttons.
-To compute advanced operations such as square roots or exponents, use the corresponding buttons marked "√" (square root) or "x²" (exponentiation).
-### Calculating the Result:
+## Tech Stack
 
-Press the "=" button to display the result of the operation.
-Clearing the Display:
+**Language:** Visual Basic 
 
-Press the "C" (Clear) button to reset the display for a new calculation.
-# Error Handling:
+**IDE:** Microsoft Visual Studio 
 
-If you attempt to divide by zero, an error message will be displayed.
+
+
+
+## Installation
+To run this calculator application locally, follow these steps:
+
+```bash
+# Clone or download the project repository
+git clone https://github.com/YourUsername/visual-basic-calculator.git
+cd visual-basic-calculator
+
+# Open the solution file in Visual Studio
+# (No command line build steps necessary)
+
+```
+
+## Authors
+
+- Kamau Johnson
+
+## Lessons Learned
+
+Building this calculator application deepened my understanding of Visual Basic and Windows Forms development. I improved my skills in designing intuitive user interfaces and handling user input effectively.
+
+One challenge was managing error handling for invalid operations such as division by zero, which I resolved by implementing validation logic to provide user-friendly error messages.
+
+## Feedback
+
+If you have any feedback on this calculator project or improvements, please reach out to me via my portfolio website contact section at https://kamaujohnson.dev/. Let's connect!
+
+## Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kamaujohnson.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamau-johnson-4bab25276/)
+[![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Kamau_Johnson)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kamau_Johnson)
+
+
